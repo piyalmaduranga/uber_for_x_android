@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "320118170703",
+    "firebase_url": "https://civic-capsule-232207.firebaseio.com",
+    "project_id": "civic-capsule-232207",
+    "storage_bucket": "civic-capsule-232207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320118170703:android:1a36f1c0745d95e5",
+        "android_client_info": {
+          "package_name": "com.hypertrack.helpme_consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320118170703-go33u359g9qo3ol8bvbbn7ego2uc799o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrCRdaxsrlFVVKzYYV_C2SIvJWlvcCVOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320118170703:android:93fe51a451cfd962",
+        "android_client_info": {
+          "package_name": "com.hypertrack.service_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320118170703-go33u359g9qo3ol8bvbbn7ego2uc799o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrCRdaxsrlFVVKzYYV_C2SIvJWlvcCVOk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
